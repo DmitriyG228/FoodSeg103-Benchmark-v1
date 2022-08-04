@@ -9,8 +9,6 @@ __all__ = ['mapbox_access_token', 'main_path', 'data_path', 'reference_images_pa
 from pathlib import Path
 import os
 #export
-Path.ls = lambda x: list(x.iterdir())
-#export
 mapbox_access_token = 'pk.eyJ1IjoiZGltYWRnbyIsImEiOiJjanYydDF2dTkwdnFzNDNwOXFuNzY4OGxnIn0.wnBvykpkR0RtWOp7bj74Yw'
 
 # export

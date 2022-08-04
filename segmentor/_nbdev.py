@@ -2,8 +2,7 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"Path.ls": "00_paths.ipynb",
-         "mapbox_access_token": "00_paths.ipynb",
+index = {"mapbox_access_token": "00_paths.ipynb",
          "main_path": "00_paths.ipynb",
          "data_path": "00_paths.ipynb",
          "reference_images_path": "00_paths.ipynb",
@@ -30,7 +29,6 @@ index = {"Path.ls": "00_paths.ipynb",
          "config_file": "segment.ipynb",
          "checkpoint_file": "segment.ipynb",
          "segment_model": "segment.ipynb",
-         "crop_zeros": "segment.ipynb",
          "inference_segmentor": "segment.ipynb",
          "save_segments": "segment.ipynb"}
 
