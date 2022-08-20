@@ -26,11 +26,8 @@ index = {"mapbox_access_token": "00_paths.ipynb",
          "url_to_image": "segment.ipynb",
          "checkpoints_path": "segment.ipynb",
          "model_path": "segment.ipynb",
-         "config_file": "segment.ipynb",
-         "checkpoint_file": "segment.ipynb",
-         "segment_model": "segment.ipynb",
-         "inference_segmentor": "segment.ipynb",
-         "save_segments": "segment.ipynb"}
+         "get_segment_model": "segment.ipynb",
+         "inference_segmentor": "segment.ipynb"}
 
 modules = ["paths.py",
            "psql.py",
